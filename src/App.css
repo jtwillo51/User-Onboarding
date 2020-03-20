@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  
+  margin: 10% 40%;
+}
+
+label, input{
+  margin: 1%;
+}
+span{
+  color: red;
+  font-weight: bold;
+}
